@@ -6,4 +6,4 @@ secret: access
 added rotated aws secret key and access key
 key_name: s3-bucket
 
-added Juan sns key
+added Juan sqs key

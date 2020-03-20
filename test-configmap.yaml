@@ -1,6 +1,6 @@
-s3: xxxxxxxxx
-access: secrets
-secret: access
+s3: avatar-s3-bucket
+access: A@E&IO&&sw2
+secret: IFG7KI
 
 
 added rotated aws secret key and access key

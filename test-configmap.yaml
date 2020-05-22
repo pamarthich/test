@@ -4,6 +4,7 @@ secret: IFG7KI
 
 
 added rotated aws secret key and access key
+added skyone
 key_name: s3-bucket
 
 added Juan sqs key
